@@ -14,4 +14,4 @@ colored text or just text that is too light to be readable.
 #### The result: Hard to read articles are now more readable and accessible.
 
 ### Is the extension availale on the Chrome Web Store?
-At the moment no, as there is a $5 fee to making a developer account, I opted to just upload the code onto GitHub. In the future, perhaps.
+At the moment no, I opted to just upload the code onto GitHub.
