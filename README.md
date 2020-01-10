@@ -1,7 +1,7 @@
 # FixMe Chrome Extension
 <b>What does the extension do:</b> It is a chrome extension that improves the readability and accessibility of a website/page/article.
 
-Often when I am reading articles/blogs there are sometiems issues with readability, whether that be a pattern background with light
+Often when I am reading articles/blogs there are sometimes issues with readability, whether that be a pattern background with light
 colored text or just text that is too light to be readable.
 
 #### As a quick-fix, I decided to create a chrome extension that:
